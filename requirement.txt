@@ -1,0 +1,5 @@
+facebook-scraper 
+sqlalchemy
+fastapi
+uvicorn
+
